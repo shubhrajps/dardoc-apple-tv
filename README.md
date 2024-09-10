@@ -46,6 +46,13 @@ This project showcases a scrollable section that displays text and images in a v
 
 Open your browser and navigate to `http://localhost:3000` to view the project in action. Scroll down to see each text and image pair animate into view.
 
+### Demo
+------
+
+https://github.com/user-attachments/assets/83ca4dcb-cd5f-4c6e-b123-72520ec49039
+
+
+
 ### Contributing
 ------------
 
