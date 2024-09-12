@@ -55,7 +55,7 @@ const LocalNav = () => {
                             exit={{ y: -10, opacity: 0 }}
                             transition={{ duration: 0.3 }}
                         >
-                            <div className="absolute left-0 mt-2 bg-white shadow-lg z-10 w-full">
+                            <div className="absolute left-0 mt-2 bg-white z-10 w-full">
                                 <a 
                                     href="/apple-tv-4k/" 
                                     className="block px-4 py-2 text-gray-700 hover:bg-gray-200"
